@@ -8,7 +8,7 @@ A professional tool to quickly and automatically install APK files on Android de
 
 1. **ADB (Android Debug Bridge)**  
    Install the **ADB installer**.
-   Follow all the instructions with Y for each step. 
+   Right click and click Run as administrator. Follow all the instructions with Y for each step. 
 
 3. **Python 3.x**  
    Download and install Python from [python.org](https://www.python.org/downloads/).  
